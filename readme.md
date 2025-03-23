@@ -34,4 +34,4 @@ PageRip is a Python script that adds context menu options to Windows for extract
 
 ## License
 
-[Add your license here, e.g., MIT License]
+All rights waived.
